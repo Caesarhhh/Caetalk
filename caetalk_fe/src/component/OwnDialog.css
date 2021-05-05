@@ -1,0 +1,10 @@
+.OwnDialog{
+    border-style: none;
+    width:400px;
+    height: 200px;
+    border-radius: 50px;
+    position: absolute;
+    right:0px;
+    bottom:0px;
+    overflow: hidden;
+}
